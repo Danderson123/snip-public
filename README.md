@@ -1,6 +1,10 @@
 # SNIP
 This repository contains code for the paper [SNIP: Single-shot Network Pruning based on Connection Sensitivity (ICLR 2019)](https://arxiv.org/abs/1810.02340).
 
+## Special considerations 
+
+Install imgaug before Tensorflow (v.1.15), please 
+
 ## Prerequisites
 
 ### Dependencies
